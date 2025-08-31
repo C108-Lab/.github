@@ -25,12 +25,12 @@ pip install c108
 pip install c108-...
 ```
 
-## ️ Philosophy
+## Intentions
 
 C108-Lab packages are:
 - **Curated** - Centrally developed and maintained for consistency
 - **Production-ready** - Thoroughly tested and documented
-- **Dependency-conscious** - Core package stays lightweight; heavy deps are optional
+- **Dependency-conscious** - Core package stays lightweight; extra features and heavy deps live in sub-packages
 - **Community-friendly** - Issues and feature requests are welcome
 
 ##  Community
