@@ -9,7 +9,7 @@ that make Python development more productive and enjoyable.
 ##  Packages
 
 ### Core Package
-- **[c108](https://github.com/C108-Lab/c108)** - Essential utilities: CLI helpers, I/O tools, 
+- **[REF-1](https://github.com/C108-Lab/c108)** - Essential utilities: CLI helpers, I/O tools, 
   filesystem operations, validation, and more
 
 ### Extension Packages  
@@ -19,10 +19,10 @@ that make Python development more productive and enjoyable.
 
 ```bash
 # Core utilities
-pip install c108
+pip install ref-1
 
 # Individual extensions
-pip install c108-...
+pip install ref-1-...
 ```
 
 ## Intentions
