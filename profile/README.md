@@ -3,7 +3,7 @@
 
 **Curated collection of Python utilities for developers.**
 
-C108-Lab is the home of the `c108` suite of Python packages — a collection of carefully designed utilities 
+C108-Lab is the home of the `___` suite of Python packages — a collection of carefully designed utilities 
 that make Python development more productive and enjoyable.
 
 ##  Packages
