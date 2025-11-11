@@ -10,7 +10,7 @@ that make Python development more productive and enjoyable.
 
 ### Core Package
 - **[c108](https://github.com/C108-Lab/c108)** - Essential utilities: introspection, formatting, CLI helpers, I/O tools, 
-  filesystem operations, validation, and more
+  filesystem operations, validation, and more. Package has no external dependencies.
 
 <!--
 
