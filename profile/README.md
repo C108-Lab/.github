@@ -14,8 +14,10 @@ that make Python development more productive and enjoyable.
 
 <!--
 
+
 ### Extension Packages  
 - Coming soon...
+
 
 -->
 
@@ -25,11 +27,7 @@ that make Python development more productive and enjoyable.
 # Core utilities
 pip install c108
 
-<<<<<<< HEAD
-# Individual extensions
-=======
 # Extension packages
->>>>>>> a6878f4 (up README.md)
 pip install c108-...
 ```
 
