@@ -3,13 +3,13 @@
 
 **Curated collection of Python utilities for developers.**
 
-C108-Lab is the home of the `___` suite of Python packages — a collection of carefully designed utilities 
+C108-Lab is the home of the suite of `c108` Python packages — a collection of carefully designed utilities 
 that make Python development more productive and enjoyable.
 
 ##  Packages
 
 ### Core Package
-- **[c108](https://github.com/C108-Lab/c108)** - Essential utilities: CLI helpers, I/O tools, 
+- **[c108](https://github.com/C108-Lab/c108)** - Essential utilities: introspection, formatting, CLI helpers, I/O tools, 
   filesystem operations, validation, and more
 
 <!--
