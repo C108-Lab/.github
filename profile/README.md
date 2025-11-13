@@ -1,4 +1,21 @@
+# PyPI Verification
 
+This GitHub organization is associated with the **PyPI organization c108-lab**
+
+Verification for PyPI organization request by **PyPI user c108**
+
+**Organization request for C108-Lab**
+
+Organization request details
+
+
+* Organization account name	c108-lab
+* Organization display name	C108-Lab
+* Organization URL	https://github.com/C108-Lab
+* Organization type	Community
+* Organization membership size	1
+* Date submitted	Nov 11, 2025
+   
 # C108-Lab
 
 **Curated collection of Python utilities for developers.**
