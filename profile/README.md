@@ -43,10 +43,15 @@ that make Python development more productive and enjoyable.
 ```bash
 # Core utilities
 pip install c108
+```
 
+<!--
+```bash
 # Extension packages
 pip install c108-...
 ```
+-->
+
 
 ## Intentions
 
